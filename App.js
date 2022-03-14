@@ -1,6 +1,6 @@
 import React from 'react';
 import {SafeAreaView, StyleSheet, StatusBar} from 'react-native';
-import Routes from './lib/pages/Routes';
+import Routes from './lib/navigation/MyNavigation';
 
 export default function App() {
   return (
